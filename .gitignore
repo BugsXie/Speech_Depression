@@ -1,3 +1,4 @@
 data/
 ffmpeg-master-latest-win64-gpl-shared/
 .vscode/
+Results/ComParE_3.417_500_Adam_1e-3_/best.pth
